@@ -1,0 +1,163 @@
+/*section1*/
+
+#section1 .container-fluid{
+    background: url('../../Images/About US/Hero.png') 100%; 
+      background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+}
+#section1 .container{
+padding-bottom:8%;
+padding-top:8%;
+}
+#section1 h1{
+    font-size:2rem;
+    color:white;
+    font-weight: 400;
+}
+#section1 p{
+    font-size:1.25rem;
+    color:white;
+    font-weight: 400;
+}
+
+/*Section2*/
+
+#section2 .container-fluid{
+    background: #006766;
+}
+#section2 .container{
+    padding-bottom:6%;
+    padding-top:6%;
+}
+#section2 img{
+    width: 80px;
+}
+#section2 h4{
+   padding: 3% 0;
+    font-weight: 400;
+    font-size:2rem;
+    color:white;
+}
+#section2 p{
+    font-size:1rem;
+    font-weight: 400;
+    color:white;
+}
+
+
+/*Section3*/
+#section3 .container-fluid{
+    background: #013334;
+   
+}
+
+#section3 .container{
+ color:white;
+ padding-bottom: 5%;
+ padding-top: 5%;
+}
+
+#section3 h1{
+    font-size:2rem;
+    font-weight: 400;
+    }
+
+    #section3 p{
+        font-size: 1rem;
+        font-weight: 400;
+        color:#718181;
+    }
+
+    /*Section4*/
+
+    #section4 .container-fluid{
+        background: url('../../Images/About US/background1.png') 100%;
+        
+    }
+
+    #section4 .container{
+         
+        padding-bottom: 5%;
+        padding-top: 5%;
+    }
+    #section4 img{
+        width: 125px;
+        border :2px solid #013334;
+        border-radius: 125px;
+    }
+    #section4 h2{
+        font-size:2rem;
+        font-weight: 400;
+        padding-bottom: 3%;
+        padding-top: 3%;
+        color: #003031;
+    }
+    #section4 p{
+        text-align: justify;
+        font-size:1.1rem;
+        font-weight: 400;
+        color: #003031;
+    }
+
+    /*Section5*/
+
+    #section5 .container-fluid{
+        background: #006766;
+    }
+
+    #section5 .container{
+        padding-bottom:5%;
+        padding-top:5%;
+    }
+    #section5 img{
+        max-width: 100%;
+    }
+    .img_sec5{
+        display:flex;
+    }
+.img_sec55{
+    padding: 5%;
+    margin: auto;
+}
+#section5 h2{
+    font-size:2rem;
+    color:white;
+    font-weight: 400;
+}
+#section5 p{
+    font-size:1.1rem;
+    color:white;
+    text-align: justify;
+
+}
+
+/*Section6*/
+
+#section6 .container-fluid{
+    background:  #C1C1C1;
+}
+#section6 .content img{
+    padding-left:10%;
+    padding-top: 10%;
+    width: 25%;
+}
+#section6 .content{
+    padding: 0;
+}
+#section6 .content1{
+    padding: 0;
+}
+#section6 h1{
+    font-size:2rem;
+    font-weight: 400;
+    color:#013334;
+    padding: 3% 10%;
+}
+#section6 p{
+font-size:1rem;
+color:#013334;
+font-weight: 400;
+padding: 0 10%;
+text-align: justify;
+}

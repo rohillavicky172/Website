@@ -1,0 +1,70 @@
+/**{
+    color: white;
+}*/
+/*Section1*/
+#section1 .container-fluid{
+    background: url('https://dummyimage.com/1440x400/115D59/115D59') 100%; 
+    color:white;
+}
+
+#section1 .container{
+padding-bottom: 10%;
+padding-top:10%;
+}
+
+#section1 h1{
+    font-size:1.75rem;
+}
+#section1 p{
+    margin: 0;
+    font-size:1.25rem;
+}
+
+/*Section2*/
+#section2 .container-fluid{
+    background: #013334;
+
+}
+#section2 .container{
+    padding-bottom: 10%;
+    padding-top: 10%;
+}
+.header h1{
+    font-size:2rem;
+    font-weight: 400;
+}
+.header p{
+font-weight:400;
+font-size: 1rem;
+}
+/*Section3*/
+
+.jumbotron{
+background: url('https://dummyimage.com/1440x400/efefef/115D59') 100%;
+}
+
+#section3 .color{
+background-color: #115d59; 
+color:white;
+}
+
+.card{
+    margin: 3%;
+}
+
+#section3 h1{
+    font-size: 2.5rem;
+    font-weight: 400px;
+    margin: 5% 2%;
+}
+
+#section3 p{
+    font-size:1.0rem;
+    font-weight: 400;
+    margin: 2%;
+}
+
+#section3 .btn{
+margin: 5% 2%;
+border-radius: 25px;
+}

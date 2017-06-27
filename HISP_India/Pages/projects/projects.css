@@ -1,0 +1,81 @@
+
+/*section1*/
+.jumbotron {
+    margin: 0;
+    background: url('../../Images/Projects/background.png') 100%;
+     background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+}
+
+#section1 h1{
+    color:white;
+    font-size: 2.5rem;
+}
+
+
+#section1 p{
+    color:white;
+    font-size:1rem;
+    font-weight:400;
+}
+
+
+/*Section2*/
+#section2{
+    background: #013334;
+    height: 400px;
+}
+#section2 .row{
+    padding: 8% 0;   
+color:white;
+}
+#section2 h3{
+    font-size: 2rem;
+    font-weight: 400;
+}
+#section2 p{
+    font-size: 1rem;
+    font-weight: 500;
+    color:darkgrey;
+}
+
+
+
+/*section3 for projects listing*/
+#section3 .container-fluid{
+    padding: 15px;
+     background: url('../../Images/Projects/section_bg.png');
+  background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+   
+}
+
+
+#section3 h1{
+    padding: 15px 15px 15px 0;
+    font-size:1.75rem;
+    font-weight:400;
+    color:#013334;
+}
+
+.projects{
+    border: 1px solid grey;
+    border-radius:2px;
+    margin:5% 5% 5% 0;
+}
+
+.projects h3{
+    font-size: 1.15rem;
+    margin: 3%;
+    color:#013334;
+    font-weight: 400;
+}
+
+.projects p{
+    font-size: 1rem;
+    margin: 3%;
+    color:#297A7D;
+    font-weight:400;
+}

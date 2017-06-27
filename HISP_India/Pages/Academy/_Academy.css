@@ -1,0 +1,143 @@
+/*Section1*/
+#section1 .container-fluid{
+    background: url('https://dummyimage.com/1440x400/1E6D6A/1E6D6A') 100%;
+}
+
+#section1 .container{
+    padding-bottom: 8%;
+    padding-top: 8%;
+}
+
+#section1 h1{
+    color:white;
+    font-size:2rem;
+}
+#section1 p{
+    color:white;
+    font-size:1rem;
+    font-weight: 400;
+}
+
+/*Section2*/
+#section2 .container-fluid{
+    background:#006766;
+}
+#section2 .container{
+    color:white;
+    padding-top:8%;
+    padding-bottom:5%;
+    border-bottom :1px solid lightcyan;
+}
+
+#section2 h1{
+    font-size:1.2rem;
+    font-weight:400;
+}
+
+#section2 p{
+    font-size:1.5rem;
+    font-weight:300;
+}
+
+
+/*Section3 section4*/
+
+#section3 .container{
+    color:white;
+    padding-top:5%;
+
+}
+
+#section3 img{
+   padding: 2% 0;
+    width: 100px;
+}
+
+#section3 h5{
+    font-size:18px;
+    font-weight:400;
+}
+
+#section3 p{
+    font-size:15px;
+}
+
+/*Section4 section4*/
+
+#section4 .container{
+    color:white;
+    padding-top:5%;
+
+}
+
+#section4 img{
+      padding: 2% 0;
+    width: 100px;
+}
+
+#section4 h5{
+    font-size:18px;
+    font-weight:400;
+}
+
+#section4 p{
+    font-size:15px;
+}
+
+
+/*section5*/
+#section5 .container-fluid{
+    background: #013334;
+}
+#section5 .container{
+   padding-bottom: 5%;
+}
+#section5 h1{
+    padding: 5% 0;
+    color:white;
+    font-size:1.25rem; 
+    font-weight: 400;   
+}
+#section5 table{
+    background: white;
+    border-radius:5px;
+    border:none;
+}
+#section5 table tr{
+   border-bottom: 1px solid #efefef;
+}
+#section5 table th{
+   color:#013334;
+   border: none;
+   font-size:0.85rem;
+}
+#section5 table td{
+   border: none;
+    font-size:0.85rem;
+}
+
+
+/*section6*/
+
+#section6 .container-fluid{
+    background: #cccccc;
+}
+#section6 .container{
+    padding-top:5%;
+    padding-bottom:5%;
+}
+
+#section6 h1{
+    font-size:1.75rem;
+    padding-bottom: 3%;
+}
+
+#section6 h4{
+    font-size:1.25rem;
+    font-weight:400;
+    color:#013334;
+}
+
+#section6 p{
+    font-size:1rem;
+}

@@ -1,0 +1,71 @@
+/*NavBar Css*/
+
+.fixed-top-2 {
+	margin-top: 56px;
+}
+
+
+/*NabBAr First*/
+
+
+#navSec1 .navbar-brand {
+	padding: 1.5%;
+}
+
+#brandp1 {
+	color: #298879;
+	font-weight: 500;
+	font-size: 1.5rem;
+}
+
+#brandp2 {
+	color: #013334;
+	font-weight: 500;
+	font-size: 1.5rem;
+}
+.fa-bars{
+	padding: 5%;
+}
+
+#navSec1 input{
+	border-radius:25px; 
+}
+
+#navSec1 button{
+	border-radius:25px; 
+	color: #fff;
+    background-color:#298879;
+    border-color:#298879;
+}
+
+
+#navSec1 button:hover {
+    color: #fff;
+    background-color: #013334;
+    border-color:#013334;
+}
+
+
+
+/*NavBar Second*/
+
+#navSec2 .container-fluid {
+	background: #013334;
+}
+
+#navSec2 .container{
+	padding-bottom: 0.5%;
+	padding-top: 0.5%;
+}
+
+#navSec2 .nav-link {
+	color: white;
+	padding-right:40px;
+}
+
+#nBar2 {
+	color: white;
+	text-align: center;
+}
+
+

@@ -1,0 +1,79 @@
+/*#2F7A76*/
+
+#section1 .jumbotron{
+    margin: 0px;
+    height: 350px;
+    background: url('../../Images/Services/background.png') 100%;
+     background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+}
+
+
+#section1 h1{
+color:white;
+font-size: 2rem;
+font-weight: 400;
+margin-bottom: 5%;
+}
+
+#section1 p{
+    font-size: 1rem;
+    font-weight: 400;
+  color: white;
+  
+}
+/*Product Section CSS*/
+.row{
+    margin:0;
+}
+
+.col-md-6 {
+    padding: 0;
+
+}
+
+.content{
+    display: flex;
+}
+
+.content-text{
+    width:450px;
+    margin:auto;
+}
+
+.section_product .container-fluid{
+    padding: 0;
+}
+
+
+/*css for text Box*/
+.section_product{
+    background: #f2f2f2;
+}
+.content-text{
+    padding:5% 0;
+}
+
+.product_img{
+    margin-bottom: 10%;
+}
+
+.section_product h1{
+    font-size: 1.5rem;
+    font-weight: 400;
+    margin-bottom: 5%;
+    color:#2A7F81;
+}
+.section_product h3{
+    font-size: 1.10rem;
+    color:#006766;
+    font-weight: 400;
+    margin-bottom: 10%;
+}
+
+.section_product p{
+    font-size: 1rem;
+    font-weight: 400;
+    margin-bottom: 5%;
+}

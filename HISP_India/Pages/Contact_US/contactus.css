@@ -1,0 +1,58 @@
+*{
+color:white;
+}
+
+#section1 .container-fluid{
+    background: url('../../Images/ContactUS/background.png') 100% ;
+      background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+}
+
+
+/*container1*/
+#container1{
+    padding-bottom: 8%;
+    padding-top: 8%;
+}
+
+#container1 h1{
+    font-size:2rem;
+    font-weight:400;
+    padding: 2% 0;
+}
+
+#container1 h3{
+    font-size:2rem;
+    font-weight: 400;
+}
+
+#container1 img{
+    padding: 25% 30% 25% 0;
+}
+#container1 h4{
+    padding-top:4%; 
+}
+
+
+/*Container2*/
+
+#container2 h3{
+    font-size: 1rem;
+    font-weight: 500;
+}
+#container2 p{
+    font-size: 1.5rem;
+    font-weight: 300;
+}
+#container2 button{
+      color: #fff;
+    background-color: transparent;
+    border-color: #fff;
+    border-radius: 25px;
+}
+#container2 button:hover {
+    color: #fff;
+    background-color: #013334;
+    border-color: #013334;
+}

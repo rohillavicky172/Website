@@ -1,0 +1,173 @@
+/*section1*/
+
+#section1 .container-fluid{
+    background:url('../../Images/Clients/section_bg_overlay.png');
+    
+    }
+
+#section1 .container{
+color:white;
+padding-top: 7%;
+padding-bottom: 7%;
+}
+
+#section1 .container h1{
+    font-size:2.5rem;
+    font-weight: 400;
+}
+#section1 .container p{
+    font-size:1.15rem;
+    font-weight: 400;
+}
+
+/*Section2*/
+#section2 .container-fluid{
+    background: #C6C7C9;
+}
+
+#section2 .container{
+    padding-bottom: 5%;
+    padding-top:5%;
+}
+
+#section2 .container img{
+    padding-bottom: 5%;
+    padding-top:5%;
+}
+
+/*Section3*/
+
+#section3 .container-fluid{
+       background:url('../../Images/Clients/section_bg_overlay.png');
+}
+#section3 .container{
+padding-bottom: 5%;
+padding-top:5%;
+color:white;
+}
+#section3 .container h1{
+font-size:2rem;
+font-weight: 400;
+}
+#section3 .container p{
+font-size:1rem;
+font-weight: 400;
+}
+/*section4*/
+#section4 .container-fluid{
+    background: #CCCCCC;
+}
+
+#section4 .container{
+    padding-bottom: 3%;
+    padding-top: 3%;
+}
+#section4 .container h1{
+    padding-bottom:1%;
+    padding-top: 1%;
+    color:#053435;
+    font-size:2rem;
+    font-weight:400;
+}
+#section4 .container p{
+    padding-bottom:1%;
+    padding-top: 1%;
+    color:#5A6D6C;
+    font-size:1rem;
+    font-weight:400;
+}
+
+/*section5*/
+#section5 .container-fluid{
+    background: #CCCCCC;
+}
+#section5 .container{
+    padding-bottom: 3%;
+}
+#section5 .card{
+    padding:2%;
+}
+
+#section5 .card .media img{
+  border-radius:75px 75px;
+}
+#section5 .card .media .media-body h4{
+    color:#002B2A;
+  padding: 2%;
+}
+#section5 .card .media .media-body p{
+  padding: 2%;
+}
+
+#section5 .card .card-text{
+  font-weight: 400;
+  color:#BCBFC1;
+}
+
+
+/*Section6*/
+#section6 .container-fluid{
+ background:url('../../Images/Clients/section_bg_overlay.png');
+}
+#section6 .container{
+padding-bottom: 5%;
+padding-top:5%;
+color:white;
+}
+#section6 .container h1{
+font-size:2rem;
+font-weight: 400;
+}
+#section6 .container p{
+font-size:1rem;
+font-weight: 400;
+}
+
+
+
+/*carousel*/
+    .testi {
+        /*height: 300px;
+        width: 450px;*/
+        height: 300px;
+        width: 450px;
+        display: flex;
+        position: relative; 
+        margin: 10% 0;
+    }
+
+    .inner {
+        border: 1px solid white;
+        height: 250px;
+        width: 400px;
+        margin: auto;
+        display: flex;
+    }
+    .inner .text{
+        margin: auto;
+        padding: 10%;
+        font-size:1rem;
+        font-weight:400;
+    }
+
+    .testi img {
+        width: 50px;
+    }
+    /*Main Theme*/
+
+    .bottom-right {
+        position: absolute;
+        bottom: 0;
+        right: 0;
+    }
+
+    .top-left {
+        position: absolute;
+        left: 0;
+    }
+
+
+/*Items Centring inside  .carousel-item*/
+    .carousel-item .row{
+        margin:auto;
+    }
