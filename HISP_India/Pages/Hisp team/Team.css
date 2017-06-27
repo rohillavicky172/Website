@@ -33,7 +33,7 @@ background: #013334;
 }
 .main_card{
 	width: 80%;
-	margin-left: 20%;
+	/*margin-left: 20%;*/
 }
 /*Section3*/
 
@@ -92,7 +92,7 @@ background: #013334;
 
 #section6 h1{
 	color:white;
-	font-size:1.5rem;
+	font-size:1rem;
 	padding-bottom:5%;
 	font-weight: 400;
 }

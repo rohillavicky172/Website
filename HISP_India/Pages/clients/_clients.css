@@ -22,18 +22,26 @@ padding-bottom: 7%;
 
 /*Section2*/
 #section2 .container-fluid{
-    background: #C6C7C9;
+    background: #efefef;
+    padding-top: 2%;
+padding-bottom: 2%;
 }
 
-#section2 .container{
-    padding-bottom: 5%;
-    padding-top:5%;
+#section2 .imgContainer {
+    display: table-cell;
+    width: 150px; 
+    height: 100px;
+    text-align: center;
+    vertical-align: center;
+    display: flex;
 }
 
-#section2 .container img{
-    padding-bottom: 5%;
-    padding-top:5%;
+#section2 img{
+    margin: auto;
+     max-width: 100%;
+    max-height: 100%;
 }
+
 
 /*Section3*/
 
@@ -129,7 +137,7 @@ font-weight: 400;
     .testi {
         /*height: 300px;
         width: 450px;*/
-        height: 300px;
+        height: 450px;
         width: 450px;
         display: flex;
         position: relative; 
@@ -138,7 +146,7 @@ font-weight: 400;
 
     .inner {
         border: 1px solid white;
-        height: 250px;
+        height: 400px;
         width: 400px;
         margin: auto;
         display: flex;
