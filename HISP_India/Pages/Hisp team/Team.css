@@ -25,7 +25,7 @@ background: #013334;
 #section2 .container {
 	padding-bottom: 5%;
 	padding-top: 5%;
-	border-bottom: 1px solid white;
+	
 }
 #section2 .container .lead_color{
 	color: white;
@@ -39,11 +39,12 @@ background: #013334;
 
 #section3 .container-fluid{
 	background: #013334;
+
 }
 #section3 .container{
 	padding-top:2%;
 	padding-bottom: 6%;
-
+	border-bottom: 1px solid white;
 }
 #section3 h1{
 	color: white;
@@ -54,7 +55,7 @@ background: #013334;
 
 /*section4*/
 #section4 .container-fluid{
-	background: #006766;
+	background: #013334;
 }
 #section4 .container{
 	padding-top: 6%;
@@ -69,7 +70,7 @@ background: #013334;
 
 /*section5*/
 #section5 .container-fluid{
-	background: #013334;
+	background: #006766;
 }
 #section5 .container{
 	padding-top: 6%;
