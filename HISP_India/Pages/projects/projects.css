@@ -2,10 +2,10 @@
 /*section1*/
 .jumbotron {
     margin: 0;
-    background: url('../../Images/Projects/background.png') 100%;
+    background: url('../../Images/Common_Photos/projects2.png') 100%;
      background-size: cover;
     background-repeat: no-repeat;
-    background-position: 50% 50%;
+    /*background-position: 50% 50%;*/
 }
 
 #section1 h1{
@@ -37,7 +37,7 @@ color:white;
 #section2 p{
     font-size: 1rem;
     font-weight: 500;
-    color:darkgrey;
+    color:white;
 }
 
 
@@ -45,11 +45,14 @@ color:white;
 /*section3 for projects listing*/
 #section3 .container-fluid{
     padding: 15px;
-     background: url('../../Images/Projects/section_bg.png');
+     background: url('../../Images/Common_Photos/projectback.png');
   background-size: cover;
     background-repeat: no-repeat;
-    background-position: 50% 50%;
+    background-position: 100% 100%;
    
+}
+#section3 .container{
+    border-bottom: 1px solid white;
 }
 
 
@@ -57,7 +60,7 @@ color:white;
     padding: 15px 15px 15px 0;
     font-size:1.75rem;
     font-weight:400;
-    color:#013334;
+    color:white;
 }
 
 .projects{
@@ -69,13 +72,13 @@ color:white;
 .projects h3{
     font-size: 1.15rem;
     margin: 3%;
-    color:#013334;
+    color:white;
     font-weight: 400;
 }
 
 .projects p{
     font-size: 1rem;
     margin: 3%;
-    color:#297A7D;
+    color:white;
     font-weight:400;
 }

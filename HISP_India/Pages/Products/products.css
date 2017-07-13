@@ -3,8 +3,8 @@
 #section1 .jumbotron{
     margin: 0px;
     height: 350px;
-    background: url('../../Images/Products/Hero.png') 100%;
-      background-size: cover;
+    background: url('../../Images/Common_Photos/products.png') 100%;
+    background-size: cover;
     background-repeat: no-repeat;
     background-position: 50% 50%;
 }
@@ -76,4 +76,10 @@ margin-bottom: 5%;
     font-size: 1rem;
     font-weight: 400;
     margin-bottom: 5%;
+}
+
+
+
+.content{
+    border-bottom: 1px solid #006766;
 }

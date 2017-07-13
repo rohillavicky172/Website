@@ -3,7 +3,7 @@
 #section1 .jumbotron{
     margin: 0px;
     height: 350px;
-    background: url('../../Images/Services/background.png') 100%;
+    background: url('../../Images/Common_Photos/Services.png') 100%;
      background-size: cover;
     background-repeat: no-repeat;
     background-position: 50% 50%;
@@ -57,6 +57,7 @@ margin-bottom: 5%;
 
 .product_img{
     margin-bottom: 10%;
+    border-radius: 50%;
 }
 
 .section_product h1{

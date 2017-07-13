@@ -13,7 +13,7 @@ h5{
 /*Section1*/
 
 .jumbotron-fluid {
-    background-image: url("../Images/Home/home2.JPG");
+    background-image: url("../Images/Common_Photos/home2.png");
       background-size: cover;
     background-repeat: no-repeat;
     background-position: 50% 50%;
@@ -68,13 +68,7 @@ h5{
     font-size: 1.20rem;
     font-weight: 400;
 }
-.image1{
-    background-image: url("../Images/Home/MacBook.png");
-      background-size: cover;
-    /*background-position: 50% 50%;*/
-    height: 100%;
-    width: 100%;
-}
+
 
 /*Section3*/
 #section3 .container-fluid{
@@ -212,6 +206,7 @@ text-align: left;
 }
 
 #section6 p{
+    text-align: center;
     font-size:15px;
     color: #013334;
     font-weight: bold;
@@ -240,6 +235,22 @@ font-weight: 400;
     border:white;
     font-weight: 400;
 }
+
+#section7 .card-title{
+    font-size: 1.25rem;
+    font-weight: 400;
+    color: #013334;
+}
+
+#section7 img{
+   height: 250px;
+}
+
+#section7 .media-object{
+    width: 50px;
+    height: 50px;
+}
+
 
 /*Section8*/
 #section8 h1{

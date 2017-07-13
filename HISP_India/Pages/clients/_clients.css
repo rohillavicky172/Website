@@ -1,7 +1,10 @@
 /*section1*/
 
 #section1 .container-fluid{
-    background:url('../../Images/Clients/section_bg_overlay.png');
+    background:url('../../Images/Common_Photos/clients.png');
+       background-size: cover;
+    background-repeat: no-repeat;
+    /* background-position: 50% 50%; */
     
     }
 
@@ -46,7 +49,7 @@ padding-bottom: 2%;
 /*Section3*/
 
 #section3 .container-fluid{
-       background:url('../../Images/Clients/section_bg_overlay.png');
+       background:rgba(25, 117,117, 1);
 }
 #section3 .container{
 padding-bottom: 5%;
@@ -97,7 +100,8 @@ font-weight: 400;
 }
 
 #section5 .card .media img{
-  border-radius:75px 75px;
+    width: 100%;
+  /* border-radius:125px 125px; */
 }
 #section5 .card .media .media-body h4{
     color:#002B2A;
@@ -115,7 +119,7 @@ font-weight: 400;
 
 /*Section6*/
 #section6 .container-fluid{
- background:url('../../Images/Clients/section_bg_overlay.png');
+  background:rgba(25, 117,117, 1);
 }
 #section6 .container{
 padding-bottom: 5%;

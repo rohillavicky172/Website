@@ -1,6 +1,9 @@
 /*section1*/
 #section1 .container-fluid{
-	background:#065759;
+	background:url('../../Images/Common_Photos/team.png') 100%;
+	 background-size: cover;
+    background-repeat: no-repeat;
+    /*background-position: 50% 50%;*/
 }
 #section1 .container{
 	color:white;

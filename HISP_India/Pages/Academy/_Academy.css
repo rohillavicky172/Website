@@ -1,6 +1,9 @@
 /*Section1*/
 #section1 .container-fluid{
-    background: url('https://dummyimage.com/1440x400/1E6D6A/1E6D6A') 100%;
+    background: url('../../Images/Common_Photos/academy1.png') 100%;
+     background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 100% 100%;
 }
 
 #section1 .container{
@@ -91,6 +94,7 @@
 }
 #section5 .container{
    padding-bottom: 5%;
+   border-bottom: 1px solid white;
 }
 #section5 h1{
     padding: 5% 0;
